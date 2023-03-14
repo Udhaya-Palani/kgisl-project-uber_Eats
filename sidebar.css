@@ -1,0 +1,57 @@
+body{
+    background-color: bisque;
+}
+.container{
+    width: 280px;
+    height: 570px;
+    background-color:white;
+    margin: 0;  
+}
+.btn1{
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 20px;
+}
+.btn2{
+    width:250px ;
+    height: 50px;
+    background-color: rgb(141, 138, 138);
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 10px;
+}
+.pad1{
+    padding-top: 30px;
+}
+.pad2{
+    padding-top: 10px;
+}
+.pad3{
+    padding-top: 10px;
+}
+.mr-3{
+    width: 50px;
+    height: 50px;
+}
+.media{
+    margin-top: 160px;
+}
+.btn4{
+    margin-top: 10px;
+    border-radius:20px;
+    width: 100px;
+    height: 40px;
+    border-style: none;
+}
+.btn5{
+    margin-top: 10px;
+    border-radius:20px;
+    width: 100px;
+    height: 40px;
+    border-style: none;
+}
